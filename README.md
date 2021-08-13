@@ -7,9 +7,9 @@ Definitely don't leave this script on your server, it's a huge security hole.
 
 ## Usage
 
-Upload this to the web-accessible folder that holds the zip.
-Visit it in the browser
-Unzip your file(s) and optionally auto-delete this script at the same time.
+1. Upload this to the web-accessible folder that holds the zip.
+2. Visit it in the browser
+3. Unzip your file(s) and optionally(but recommended) auto-delete this script at the same time.
 
 
 #### Around the web
